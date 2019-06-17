@@ -44,3 +44,4 @@ o = MyClass()
 print(o.__dict__)
 o.z = 10
 print(o.__dict__)
+print(globals())
